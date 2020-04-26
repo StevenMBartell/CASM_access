@@ -2,6 +2,8 @@
 
 Author: Steven M. Bartell
 
+Last Edited: 26 Apr 2020
+
 Repository contains CASM project files described in Bartell et al. 2020. The comprehensive aquatic systems model (CASM): advancing computational capability for ecosystem simulation. 
 
 Disclaimer
